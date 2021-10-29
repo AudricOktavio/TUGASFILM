@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "title": "Nekopara",
+        "year": "2018",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "poster": "MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
+        "contentRating": "11",
+        "duration": "PT100M",
+        "releaseDate": "2018-02-28",
+        "averageRating": 0,
+        "originalTitle": "",
+        "storyline": "Despite being the proud owner of six catgirls alongside his sister Shigure, Kashou Minazuki moves away from home to open his patisserie La Soleil. While unpacking, he makes a startling discovery: two of his catgirls, Chocola and Vanilla, have stowed away in his luggage!",
+        "imdbRating": "",
+        "posterurl": "https://cdn.myanimelist.net/images/anime/7/89829.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Cosette Mati",
+        "year": "2018",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "poster": "MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SY500_CR0,0,320,500_AL_.jpg",
+        "contentRating": "R",
+        "duration": "",
+        "releaseDate": "2018-02-23",
+        "averageRating": 0,
+        "originalTitle": "Annihilation",
+        "storyline": "The United States of America has been in chaos ever since the emergence of D2s, an invasive species originating from a black meteorite that fell to Earth.",
+        "imdbRating": "",
+        "posterurl": "https://cdn.myanimelist.net/images/anime/1449/117797.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Mieruko-Chan",
+        "year": "2017",
+        "genres": [
+            "Drama"
+        ],
+        "poster": "MV5BNWJmMWIxMjQtZTk0Mi00YTE0LTkyNzAtYzQxYjcwYjE4ZDk2XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_SY500_SX350_AL_.jpg",
+        "contentRating": "",
+        "duration": "PT95M",
+        "releaseDate": "2018-01-24",
+        "averageRating": 0,
+        "originalTitle": "",
+        "storyline": "Miko is a typical high school student whose life turns upside down when she suddenly starts to see gruesome and hideous monsters. Despite being completely terrified, Miko carries on with her daily life, pretending not to notice the horrors that surround her.",
+        "actors": [
+            "Charlotte Rampling",
+            "Andr\u00e9 Wilms",
+            "St\u00e9phanie Van Vyve"
+        ],
+        "imdbRating": 6.5,
+        "posterurl": "https://cdn.myanimelist.net/images/anime/1277/117155.jpg"
+    }        
+]
